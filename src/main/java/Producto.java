@@ -1,7 +1,4 @@
-import javafx.scene.effect.Reflection;
 import org.apache.commons.text.WordUtils;
-
-import java.util.Arrays;
 
 public class Producto implements Comparable<Producto> {
 
